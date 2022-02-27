@@ -1,7 +1,7 @@
 ## Welcome to Mj's GitHub Pages
 Owned by Mathew Jerard Paglinawan (Mj)
 
-![alt text](https://media.giphy.com/media/IqvAnC0wnlwbwqLpdc/giphy.gif) 
+![alt text](https://media.giphy.com/media/YwRhMm0TONQdYGeMTS/giphy.gif) 
 
 ### Chill space
 ---------------------------------------
