@@ -3,7 +3,7 @@ Owned by Mathew Jerard Paglinawan (Mj)
 
 ![alt text](https://media.giphy.com/media/YwRhMm0TONQdYGeMTS/giphy.gif) 
 
-### Chill space
+*Bold Chill space*
 ---------------------------------------
 
 Welcome to my chill space, here you can see my favorite songs.
