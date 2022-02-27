@@ -1,7 +1,7 @@
 ## Welcome to Mj's GitHub Pages
 Owned by Mathew Jerard Paglinawan (Mj)
 
-![alt text](https://media.giphy.com/media/TjLUXM7BA6JtZqB9A4/giphy.gif) 
+![alt text](https://media.giphy.com/media/IqvAnC0wnlwbwqLpdc/giphy.gif) 
 
 ### Chill space
 ---------------------------------------
@@ -11,19 +11,20 @@ Welcome to my chill space, here you can see my favorite songs.
 | Song | Artist |
 | ----------- | ----------- |
 |1. [Space song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow?si=400831fcf2c24d6e) | Beach house|
-|1. [Passion fruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?si=3068eef69ed349d2) | Drake |
-|1. [Here we go... again](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf?si=82580b8923d74ecd) | The weekend, Tyler the creator |
-|1. [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG?si=5aedea95d2e345b3) | Rex Orange County |
-|1. [Moonlight](https://open.spotify.com/track/5A7CwBNDUhvLWuSU5oJEh3?si=561f7208ca204284) | Ariana Grande |
-|1. [After all](https://open.spotify.com/track/38UDoZyudPWXLzXRAb71oP?si=27f49b1540264850) | Elton John, Charlie Puth |
+|2. [Passion fruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?si=3068eef69ed349d2) | Drake |
+|3. [Here we go... again](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf?si=82580b8923d74ecd) | The weekend, Tyler the creator |
+|4. [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG?si=5aedea95d2e345b3) | Rex Orange County |
+|5. [Moments](https://open.spotify.com/track/1g6aK9HzKkbbQ2RpqtUyvL?si=cbebd6b07a05492d) | Micah Edwards |
+|6. [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5?si=947c6ca6ef91458b) | Ckay |
+|7. [More than a woman](https://open.spotify.com/track/2cX2coZS1PYBfPs8wgbdWE?si=95d2c722c44d400b) | Bee Gees|
+|8. [Fine line](https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9?si=784bdaf3b1594f36) | Harry Styles|
+|9. [Am I Dreaming](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8?si=3eea2a6860894210) | Lil Nas X, Miley Cyrus|
+|10. [Spotless mind](https://open.spotify.com/track/40oLHUxXfd6mWRZcXzfV1U?si=b190a3d48dd0408a) | Emily Lind|
+|11. [Moonlight](https://open.spotify.com/track/5A7CwBNDUhvLWuSU5oJEh3?si=52874810452f4b81) | Ariana Grande|
+|12. [Show me how](https://open.spotify.com/track/6A46jG17UumVQLqodsFxuV?si=98db8ee7649d4972) | Men I trust|
+|13. [All too well](https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi?si=91014ff4c7364df5) | Taylor Swift|
+|14. [Something About you](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe?si=0214ccaeeeda4858) | Eyedress, Dent May|
+|15. [The less I know the better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ?si=41f673f398b74d39) |Tame Impala|
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjuwu/mjuwu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
