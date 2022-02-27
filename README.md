@@ -26,5 +26,8 @@ Welcome to my chill space, here you can see my favorite songs.
 |14. [Something About you](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe?si=0214ccaeeeda4858) | Eyedress, Dent May|
 |15. [The less I know the better](https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ?si=41f673f398b74d39) |Tame Impala|
 
+---------------------------------------
 
+My Favorite Album 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/7xV2TzoaVc0ycW7fwBwAml?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
