@@ -11,7 +11,7 @@ Welcome to my chill space, here you can see my favorite songs.
 | Song | Artist |
 | ----------- | ----------- |
 |1. [Space song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow?si=400831fcf2c24d6e) | Beach house|
-|2. [Passion fruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?si=3068eef69ed349d2) | Drake |
+|2. [Passionfruit](https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz?si=3068eef69ed349d2) | Drake |
 |3. [Here we go... again](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf?si=82580b8923d74ecd) | The weekend, Tyler the creator |
 |4. [Untitled](https://open.spotify.com/track/3PbV3ocgAp3Xn0omGFC0cG?si=5aedea95d2e345b3) | Rex Orange County |
 |5. [Moments](https://open.spotify.com/track/1g6aK9HzKkbbQ2RpqtUyvL?si=cbebd6b07a05492d) | Micah Edwards |
