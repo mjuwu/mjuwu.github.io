@@ -8,9 +8,9 @@ Owned by Mathew Jerard Paglinawan (Mj)
 
 Welcome to my chill space, here you can see my favorite songs.
 
-| Chuchu | ChuChu |
-| ----------- | ----------- |
-| Header | Title |
+| Song name | Artist |
+| Space song(https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow?si=ee84a180e2df4c8a) | Beach house |
+| Header | Drake |
 | Paragraph | Text |
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
