@@ -30,7 +30,7 @@ Welcome to my chill space, here you can see my favorite songs.
 
 My Favorite Albums
 
-[![image-text](https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png)](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml?si=cW9l4AEeQZaQnT_0S0bGgA)                               [![image-text](https://upload.wikimedia.org/wikipedia/en/b/bf/Lil_Nas_X_-_Montero.png)](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR?si=gxa2VVQ5RfSAM2jex3gkqw)
+Fine Line[![image-text](https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png)](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml?si=cW9l4AEeQZaQnT_0S0bGgA)                              Montero [![image-text](https://upload.wikimedia.org/wikipedia/en/b/bf/Lil_Nas_X_-_Montero.png)](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR?si=gxa2VVQ5RfSAM2jex3gkqw)
 
 
 
