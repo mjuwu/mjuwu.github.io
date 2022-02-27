@@ -30,9 +30,8 @@ Welcome to my chill space, here you can see my favorite songs.
 
 My Favorite Albums
 
-[![image-text](https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png)](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml?si=cW9l4AEeQZaQnT_0S0bGgA)   [![image-text](https://upload.wikimedia.org/wikipedia/en/b/bf/Lil_Nas_X_-_Montero.png)](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR?si=gxa2VVQ5RfSAM2jex3gkqw)
+[![image-text](https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png)](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml?si=cW9l4AEeQZaQnT_0S0bGgA)   [![image-text](https://upload.wikimedia.org/wikipedia/en/b/bf/Lil_Nas_X_-_Montero.png)](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR?si=gxa2VVQ5RfSAM2jex3gkqw)   [![image-text](http://atwoodmagazine.com/wp-content/uploads/2020/06/To-Let-A-Good-Thing-Die-Bruno-Major-350x350.jpg)](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO?si=ArO2exfvRDO6q9RyXZuuGA)
 
-Fine Line                                                    Montero
 
 
 
