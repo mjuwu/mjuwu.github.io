@@ -8,7 +8,7 @@ Owned by Mathew Jerard Paglinawan (Mj)
 
 Welcome to my chill space, here you can see my favorite songs.
 
-| Syntax | Description |
+| Chuchu | ChuChu |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
