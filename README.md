@@ -9,7 +9,7 @@ Owned by Mathew Jerard Paglinawan (Mj)
 Welcome to my chill space, here you can see my favorite songs.
 
 | Song name | Artist |
-| Space song(https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow?si=ee84a180e2df4c8a) | Beach house |
+| Space song (https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow?si=ee84a180e2df4c8a) | Beach house |
 | Header | Drake |
 | Paragraph | Text |
 
