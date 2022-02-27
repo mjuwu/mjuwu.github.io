@@ -1,6 +1,6 @@
 ## Welcome to Mj's GitHub Pages
 Owned by Mathew Jerard Paglinawan (Mj)
----------------------------------------
+
 ![alt text](https://media.giphy.com/media/TjLUXM7BA6JtZqB9A4/giphy.gif) 
 
 ### Chill space
@@ -8,20 +8,10 @@ Owned by Mathew Jerard Paglinawan (Mj)
 
 Welcome to my chill space, here you can see my favorite songs.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
