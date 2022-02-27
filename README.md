@@ -10,7 +10,7 @@ Welcome to my chill space, here you can see my favorite songs.
 
 | Song | Artist |
 | ----------- | ----------- |
-| Header | Title |
+| [Space song](https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow?si=400831fcf2c24d6e) | Title |
 | Paragraph | Text |
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
