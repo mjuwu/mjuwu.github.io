@@ -1,12 +1,12 @@
 ## Welcome to Mj's GitHub Pages
 Owned by Mathew Jerard Paglinawan (Mj)
 ---------------------------------------
-
+![alt text](https://media.giphy.com/media/TjLUXM7BA6JtZqB9A4/giphy.gif) 
 
 ### Chill space
 ---------------------------------------
 
-Welcome to my chill space,here you can see my favorite songs.
+Welcome to my chill space, here you can see my favorite songs.
 
 # Header 1
 ## Header 2
