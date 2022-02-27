@@ -34,6 +34,9 @@ Welcome to my chill space, here you can see my favorite songs.
 
 ---------------------------------------
 
+### More songs that I love can be found on
 
+[Spotify](https://open.spotify.com/user/s10lzz7ryaefmrh2oqy7brn3g?si=2b30245b40b64c4f)
 
+![alt text](https://media.giphy.com/media/TjLUXM7BA6JtZqB9A4/giphy.gif) 
 
