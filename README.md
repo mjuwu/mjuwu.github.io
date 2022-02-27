@@ -29,7 +29,9 @@ Welcome to my chill space, here you can see my favorite songs.
 ---------------------------------------
 
 My Favorite Albums
-[https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml?si=t9zZSb0mTji8tnM7guhh3Q)
+<a href="https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml?si=FUKFkpQTQyO6dKPcFvryww"> 
+  <img href="https://upload.wikimedia.org/wikipedia/en/b/b1/Harry_Styles_-_Fine_Line.png"> 
+</a>  
 
 
 
