@@ -40,3 +40,58 @@ Welcome to my chill space, here you can see my favorite songs.
 
 ![alt text](https://media.giphy.com/media/TjLUXM7BA6JtZqB9A4/giphy.gif) 
 
+import random
+
+class Minesweeper:
+    def __init__(self, rows, columns, mines):
+        self.board = [['.' for j in range(columns)] for i in range(rows)]
+        self.mines = set()
+        while len(self.mines) < mines:
+            i = random.randint(0, rows - 1)
+            j = random.randint(0, columns - 1)
+            if (i, j) not in self.mines:
+                self.mines.add((i, j))
+        self.rows = rows
+        self.columns = columns
+        self.mines = mines
+        self.game_over = False
+        self.flag_mode = False
+    
+    def display(self):
+        for i in range(self.rows):
+            for j in range(self.columns):
+                print(self.board[i][j], end=' ')
+            print()
+        print()
+    
+    def count_mines(self, row, col):
+        count = 0
+        for i in range(row-1, row+2):
+            for j in range(col-1, col+2):
+                if 0 <= i < self.rows and 0 <= j < self.columns:
+                    if (i, j) in self.mines:
+                        count += 1
+        return count
+    
+    def play(self, row, col):
+        if (row, col) in self.mines:
+            self.game_over = True
+            print("Boom! You lost.")
+        else:
+            count = self.count_mines(row, col)
+            self.board[row][col] = str(count) if count else ' '
+
+def main():
+    rows = int(input("Enter number of rows: "))
+    columns = int(input("Enter number of columns: "))
+    mines = int(input("Enter number of mines: "))
+    game = Minesweeper(rows, columns, mines)
+    while not game.game_over:
+        game.display()
+        row = int(input("Enter row: "))
+        col = int(input("Enter column: "))
+        game.play(row, col)
+
+if __name__ == "__main__":
+    main()
+
